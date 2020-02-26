@@ -1,0 +1,12 @@
+2020-02-26 21:44:11 INFO  App:12 - Enter principle amount :
+2020-02-26 21:44:15 INFO  App:14 - Enter the rate of interest :
+2020-02-26 21:44:16 INFO  App:16 - Enter the time period
+2020-02-26 21:44:17 INFO  App:19 - Enter the choice :
+1.simple interest	2.compound interest
+2020-02-26 21:44:18 INFO  App:23 - Simple Interest is : 600.0
+2020-02-26 21:44:24 INFO  App:12 - Enter principle amount :
+2020-02-26 21:44:27 INFO  App:14 - Enter the rate of interest :
+2020-02-26 21:44:30 INFO  App:16 - Enter the time period
+2020-02-26 21:44:30 INFO  App:19 - Enter the choice :
+1.simple interest	2.compound interest
+2020-02-26 21:44:32 INFO  App:27 - Compound Interest is : 757.5250000000051
